@@ -1,0 +1,3 @@
+#day2
+#如果要实现gazebo里使用虚拟手柄，那就在虚拟手柄的launch文件中添加gazebo的node
+# file="$(find mx_urdf )/launch/gazebo.launch " />
